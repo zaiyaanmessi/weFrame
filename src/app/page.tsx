@@ -149,13 +149,13 @@ export default function Home() {
             <div className="text-lg font-bold mt-2">€11,66</div>
             <button className="mt-4 bg-green-500 text-white px-4 py-2 rounded">In den Warenkorb</button>
           </div>
-          <div className="bg-cyan-100 border rounded-lg shadow-md p-4">
+          {/* <div className="bg-cyan-100 border rounded-lg shadow-md p-4">
             <img src="./images/medicine.png" alt="Product" className="w-full h-48 object-cover mb-4"/>
             <div className="text-sm font-bold">Cannabis Flos 18/1 PT Mango</div>
             <div className="text-xs text-gray-600">abc </div>
             <div className="text-lg font-bold mt-2">€11,66</div>
             <button className="mt-4 bg-green-500 text-white px-4 py-2 rounded">In den Warenkorb</button>
-          </div>
+          </div> */}
           {/* Add more product cards as needed */}
         </section>
 
